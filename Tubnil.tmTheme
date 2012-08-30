@@ -391,7 +391,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#CE3097</string>
 			</dict>
@@ -404,7 +404,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#797BE6</string>
 			</dict>
@@ -417,7 +417,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#CB6A27</string>
 			</dict>
